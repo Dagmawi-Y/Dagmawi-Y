@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawi-y&show_icons=true&theme=onedark&title_color=009dff&locale=en&layout=compact" alt="dagmawi-y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi-y&show_icons=true&locale=en" alt="dagmawi-y" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi-y&show_icons=true&theme=dark&locale=en" alt="dagmawi-y" /></p>
