@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daggy</h1>
 <h3 align="center">A Full-Stack Dev guru and Data Scientist from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmawi-y&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawi-y" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagmawi-y" alt="dagmawi-y" /></a> </p>
 
 - 🔭 I’m currently working on [E-Fit](https://gitlab.com/alpha-team305422/fitness)
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawi-y&show_icons=true&theme=onedark&title_color=009dff&locale=en&layout=compact" alt="dagmawi-y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi-y&show_icons=true&locale=en" alt="dagmawi-y" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagmawi-y&" alt="dagmawi-y" /></p>
