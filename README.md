@@ -1,5 +1,5 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
-<h3 align="center">I'm just a guy with a Curious mind.</h3>
+<h3 align="center">Just a guy with a Curious mind.</h3>
 
 - 🔭 I’m currently working on [E-Fit](https://gitlab.com/alpha-team305422/fitness)
 
