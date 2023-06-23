@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Daggy</h1>
-<h3 align="center">A Full-Stack Dev guru and Data Scientist from Ethiopia</h3>
+<h1 align="center">Hola Mundo👋, Its Daggy</h1>
+<h3 align="center">I'm just a guy with a Curious mind.</h3>
 
 - 🔭 I’m currently working on [E-Fit](https://gitlab.com/alpha-team305422/fitness)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [dagmawi.net](dagmawi.net)
+- 👨‍💻 My projects are available at [dagmawi.dev](dagmawi.dev)
 
-- 📝 I regularly write articles on [dagmawi.net/blogs](dagmawi.net/blogs)
+- 📝 I regularly write articles on [dagmawi.dev/blogs](dagmawi.dev/blogs)
 
-- 💬 Ask me about **Flutter, Dart, The MERN-Stack**
+-  Ask me about **Flutter, Dart, The MERN-Stack**
 
-- 📫 How to reach me **dagmawi.inbox@gmail.com**
+- 📫 Wanna have a 💬.. **dagmawi.inbox@gmail.com**
 
-- ⚡ Fun fact **A Passionate Music Producer.🎵**
+- ⚡ Fun fact.. **making music.. since 2017🎶.🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
