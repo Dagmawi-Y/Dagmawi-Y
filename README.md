@@ -76,7 +76,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ``` javascript
-document.write(goals)
+let codingInProgress = true;
+let lofiMixPlaying = true;
+
+while (codingInProgress) {
+  if (lofiMixPlaying) {
+    flowState.execute();
+  } else {
+    console.log("Don't dance without a rhytm :-)");
+  }
+}
 // - Dagmawi Y.
 ```
 
