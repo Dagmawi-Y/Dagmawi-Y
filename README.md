@@ -13,7 +13,9 @@
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
-- ⚡ Fun fact.. **making music.. since 2017🎶.🎵**
+- ⚡ Passionately.. **making music.. since 2017🎶.🎵**
+
+- 🔐 Lost access and trying to get back the old account.. am here anyway😉
 
 ## Tech Stack 💻
 #### Languages
