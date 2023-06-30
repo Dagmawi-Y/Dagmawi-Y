@@ -75,7 +75,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-```javascript
+``` javascript
 let codingInProgress = true;
 let lofiMixPlaying = true;
 
@@ -83,13 +83,18 @@ while (codingInProgress) {
   if (lofiMixPlaying) {
     flowState.execute();
   } else {
-    console.log("Don't dance without a rhythm :-)");
+    console.log("Don't dance without a rhytm :-)");
   }
 }
 // - Dagmawi Y.
 ```
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawi-y&show_icons=true&theme=onedark&title_color=009dff&locale=en&layout=compact" alt="dagmawi-y" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi-y&show_icons=true&theme=dark&locale=en" alt="dagmawi-y" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
