@@ -24,5 +24,3 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
- <a href='http://www.freevisitorcounters.com'>on freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2e9f9b9bd05e10395612719dc11e1550e83e1b2f'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1048542/t/9"></script>
