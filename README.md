@@ -15,7 +15,7 @@
 
 - ⚡ Passionately.. **making music.. since 2017🎶.🎵**
 
-- 🔐 Lost access and trying to get back the old account.. am here anyway😉
+- 🔐 Trying to get back the old account.. am here anyway😉
 
 ## Tech Stack 💻
 #### Languages
