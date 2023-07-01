@@ -80,6 +80,7 @@
 ``` javascript
 let codingInProgress = true;
 let lofiMixPlaying = true;
+const flowState = new FlowState();
 
 while (codingInProgress) {
   if (lofiMixPlaying) {
