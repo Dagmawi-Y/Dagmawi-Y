@@ -1,7 +1,7 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Currently working at [360Ground](https://360ground.com/)
+- 🔭 Currently working at [360Ground](https://www.360ground.com/)
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
