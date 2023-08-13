@@ -1,13 +1,13 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Currently working at 360Ground(https://360ground.com/)
+- 🔭 Currently working at [360Ground](https://360ground.com/)
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
-- 👨‍💻 have a look at my portfolio.. [bit.ly/dagmawiYohannes](http://bit.ly/dagmawiYohannes)
+- 👨‍💻 have a look at my [portfolio](http://bit.ly/dagmawiYohannes)
 
-- 📝 find my latest articles on [bit.ly/dagmawiYohannes/blog](bit.ly/dagmawiYohannes/blog)
+- 📝 find my latest [articles](bit.ly/dagmawiYohannes/blog)
 
 -  Proficient in  **Flutter, Dart, The MERN-Stack**
 
