@@ -1,11 +1,11 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Currently working at [360Ground](https://www.360ground.com/){:target="_blank"}
+- 🔭 Currently working at [360Ground](https://www.360ground.com/)
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
-- 👨‍💻 have a look at my [portfolio](http://bit.ly/dagmawiYohannes){:target="_blank"}
+- 👨‍💻 have a look at my [portfolio](http://bit.ly/dagmawiYohannes)
 
 - 📝 find my latest [articles](bit.ly/dagmawiYohannes/blog)
 
