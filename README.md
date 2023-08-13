@@ -1,15 +1,15 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Currently working on [E-Fit](https://gitlab.com/alpha-team305422/fitness)
+- 🔭 Currently working at 360Ground(https://360ground.com/)
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
-- 👨‍💻 have a look at previous projects.. [dagmawi.dev](dagmawi.dev)
+- 👨‍💻 have a look at my portfolio.. [bit.ly/dagmawiYohannes](http://bit.ly/dagmawiYohannes)
 
-- 📝 find my latest articles on [dagmawi.dev/blogs](dagmawi.dev/blogs)
+- 📝 find my latest articles on [bit.ly/dagmawiYohannes/blog](bit.ly/dagmawiYohannes/blog)
 
--  Ask me about **Flutter, Dart, The MERN-Stack**
+-  Proficient in  **Flutter, Dart, The MERN-Stack**
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
