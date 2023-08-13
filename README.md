@@ -7,7 +7,7 @@
 
 - 👨‍💻 have a look at my [portfolio](http://bit.ly/dagmawiYohannes)
 
-- 📝 find my latest [articles](bit.ly/dagmawiYohannes/blog)
+- 📝 find my latest [articles](http://bit.ly/dagmawiYohannes/blog)
 
 -  Proficient in  **Flutter, Dart, The MERN-Stack**
 
