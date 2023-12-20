@@ -79,8 +79,6 @@ while (codingInProgress) {
 }
 // - Dagmawi Y.
 ```
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi-y&show_icons=true&theme=dark&locale=en" alt="dagmawi-y" /></p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
