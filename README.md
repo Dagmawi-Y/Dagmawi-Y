@@ -66,18 +66,18 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
 
 ``` javascript
-let codingInProgress = true;
-let lofiMixPlaying = true;
 const flowState = new FlowState();
 
-while (codingInProgress) {
+while (true) {
   if (lofiMixPlaying) {
     flowState.execute();
   } else {
-    console.log("Don't dance without a rhytm :-)");
+    console.log("Don't dance without a rhythm :-)");
+    break;
   }
 }
 // - Dagmawi Y.
+
 ```
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
