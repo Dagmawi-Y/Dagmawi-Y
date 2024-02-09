@@ -18,7 +18,7 @@
 - 🔐 Trying to get back the old account.. am here anyway😉
 
 ## Tech Stack 💻
-#### Languages
+#### Languages/Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
