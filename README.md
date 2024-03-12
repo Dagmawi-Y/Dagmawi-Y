@@ -5,17 +5,17 @@
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
-- 👨‍💻 have a look at my [portfolio](http://bit.ly/dagmawiYohannes)
+- 👨‍💻 have a look at my [portfolio](https://www.dagmawi.dev)
 
-- 📝 find my latest [articles](http://bit.ly/dagmawiYohannes/blog)
+- 📝 find my latest [articles](http://www.dagmawi.dev/blog)
 
--  Proficient in  **Flutter, Dart, The MERN-Stack**
+-  Proficient in  **Flutter, Dart, Python, The MERN-Stack**
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
 - ⚡ Passionately.. **making music.. since 2017🎶.🎵**
-
-- 🔐 Trying to get back the old account.. am here anyway😉
+  
+- 📖 A die-hard books enthusiast 📚.
 
 ## Tech Stack 💻
 #### Languages/Frameworks
