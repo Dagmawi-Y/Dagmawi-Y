@@ -7,7 +7,7 @@
 
 - 👨‍💻 have a look at my [portfolio](https://www.dagmawi.dev)
 
-- 📝 find my latest [articles](http://www.dagmawi.dev/blog)
+- 📝 find my latest [articles](https://www.dagmawi.dev/blog)
 
 -  Proficient in  **Flutter, Dart, Python, The MERN-Stack**
 
