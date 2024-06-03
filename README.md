@@ -5,9 +5,9 @@
 
 - 🌱 learning.. **Data Science and Machine Learning**
 
-- 👨‍💻 have a look at my [portfolio](https://www.dagmawi.dev)
+- 👨‍💻 have a look at my [portfolio](https://www.dagmawi.tech)
 
-- 📝 find my latest [articles](https://www.dagmawi.dev/blog)
+- 📝 find my latest [articles](https://www.dagmawi.tech/blog)
 
 -  Proficient in  **Flutter, Dart, Python, The MERN-Stack**
 
