@@ -17,6 +17,10 @@
   
 - 📖 A die-hard books enthusiast 📚.
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
+
 ## Tech Stack 💻
 #### Languages/Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -73,9 +77,6 @@ while (true) {
 // - Dagmawi Y.
 
 ```
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
