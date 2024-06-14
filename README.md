@@ -16,16 +16,13 @@
 - ⚡ Passionately.. **making music.. since 2017🎶.🎵**
   
 - 📖 A die-hard books enthusiast 📚.
-
-
-
-
+<br />
+<br />
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Dag&label=%&color=1&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
-
-
-
+<br />
+<br />
 ## Tech Stack 💻
 #### Languages/Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
