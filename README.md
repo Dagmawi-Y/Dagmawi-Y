@@ -65,13 +65,11 @@
 const flowState = new FlowState();
 
 while (true) {
-  if (lofiMixPlaying) {
-    flowState.execute();
-  } else {
-    console.log("Don't dance without a rhythm :-)");
-    break;
-  }
+  lofiMixPlaying 
+    ? flowState.execute() 
+    : (console.log("Don't dance without a rhythm :-)"), break);
 }
+
 // - Dagmawi Y.
 
 ```
