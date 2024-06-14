@@ -21,7 +21,7 @@
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Dag&label=%&color=1&icon=5&pretty=true" />
 </a>
 
 
