@@ -32,6 +32,8 @@
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Svelte](https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte)
+![SvetlteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=sveltekit)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
