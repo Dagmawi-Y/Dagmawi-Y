@@ -70,6 +70,7 @@
 
 ``` javascript
 const flowState = new FlowState();
+const [lofiMixPlaying, ...rest] = CurrentState();
 
 while (true) {
   lofiMixPlaying 
