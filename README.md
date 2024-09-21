@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=reactnative)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte)
 ![SvetlteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=svelte-kit)
 
