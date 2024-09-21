@@ -24,11 +24,12 @@
 ## Tech Stack 💻
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte)
 ![SvetlteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=svelte-kit)
+
+![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart)
 
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -43,7 +44,6 @@
 
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 
