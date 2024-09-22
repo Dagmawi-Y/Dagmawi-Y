@@ -30,6 +30,7 @@
 ![SvetlteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=svelte-kit)
 
 ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart)
+![Fluter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
 
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
