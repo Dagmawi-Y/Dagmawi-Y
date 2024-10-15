@@ -3,11 +3,13 @@
 
 - 🔭 Software Engineer @ [Eaglelion Systems Technology](https://www.eaglelionsystems.com/)
 
-- 🌱 learning.. **Data Science and Machine Learning**
+- [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
+
+- 🌱 learning.. **Web3 and Three.js**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
--  Proficient in  **Javascript, Dart, Python**
+-  Proficient in  **JS/TS, Dart, Python**
 
 -  📖 A die-hard books enthusiast 📚.
 
