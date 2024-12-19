@@ -15,8 +15,6 @@
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-Y)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <br>
 <a href="https://visitcount.itsvg.in">
