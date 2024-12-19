@@ -5,7 +5,7 @@
 
 - [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
 
-- 🌱 learning.. **Web3 and Three.js**
+- 🌱 learning.. **Quantum Computing**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
