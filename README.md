@@ -1,11 +1,11 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Software Engineer @ [Eaglelion Systems Technology](https://www.eaglelionsystems.com/)
+- 🔭 Mobile Application Developer @ [Vella.ai](https://www.vella.ai/)
 
 - [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
 
-- 🌱 learning.. **Quantum Computing**
+- 🌱 learning.. **Local-First Software Development**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
