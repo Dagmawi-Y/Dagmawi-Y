@@ -17,8 +17,8 @@
 
 <br>
 <br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Dag&label=Profile%20Views&icon=1&pretty=false" />
+<a href="https://gh-views-counter.onrender.com">
+  <img src="https://gh-views-counter.onrender.com/badge/Dagmawi-Y/Dagmawi-Y?theme=gradient-blue&style=flat&label=Views&size=large&font=roboto&animation=pulse" />
 </a>
 <br>
 <br>
