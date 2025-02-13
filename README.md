@@ -17,7 +17,7 @@
 
 <br>
 <br>
-<a href="https://gh-views-counter.onrender.com">
+<a href="https://github.com/Dagmawi-Y/gvc">
   <img src="https://gh-views-counter.onrender.com/badge/Dagmawi-Y/Dagmawi-Y?theme=gradient-blue&style=flat&label=Views&size=large&font=roboto&animation=pulse" />
 </a>
 <br>
