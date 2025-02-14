@@ -18,7 +18,7 @@
 <br>
 <br>
 <a href="https://github.com/Dagmawi-Y/gvc">
-  <img src="https://gh-views-counter.onrender.com/badge/Dagmawi-Y/Dagmawi-Y?reverse=true&theme=github&style=flat&label=People%20were%20here&size=large&font=roboto&animation=pulse" />
+  <img src="https://gh-views-counter.onrender.com/badge/Dagmawi-Y/Dagmawi-Y?reverse=true&theme=fire&style=flat&label=People%20were%20here&size=large&font=roboto&animation=pulse" />
 </a>
 <br>
 <br>
