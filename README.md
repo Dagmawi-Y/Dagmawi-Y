@@ -1,7 +1,7 @@
 <h1 align="center">Hola Mundo👋, Its Daggy</h1>
 <h3 align="center">Just a guy with a Curious mind.</h3>
 
-- 🔭 Mobile Application Developer @ [Vella.ai](https://www.vella.ai/)
+- 🔭 Full-Stack Engineer @ [Vella.ai](https://www.vella.ai/)
 
 - [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
 
