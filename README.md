@@ -5,7 +5,7 @@
 
 - [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
 
-- 🌱 learning.. **Local-First Software Development**
+- 🌱 learning.. **[Local-First](https://lofi.so) Software Development**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
