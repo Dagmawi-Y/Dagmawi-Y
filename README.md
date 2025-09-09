@@ -9,7 +9,7 @@
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
--  Proficient in  **JS/TS, Dart, Python**
+-  Proficient in  **JS/TS**
 
 -  📖 A die-hard books enthusiast 📚.
 
