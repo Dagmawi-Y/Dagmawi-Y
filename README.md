@@ -15,13 +15,13 @@
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
-<br>
+<!-- <br>
 <br>
 <a href="https://github.com/Dagmawi-Y/gvc">
   <img src="https://gh-counter.dagmawi.tech/badge/Dagmawi-Y/Dagmawi-Y?reverse=true&theme=sunset&style=flat&label=Views&size=large&font=roboto&animation=pulse" />
 </a>
 <br>
-<br>
+<br> -->
 
 ``` javascript
 const flowState = new FlowState();
@@ -36,6 +36,6 @@ while (true) {
 // - Dagmawi Y.
 
 ```
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/Dagmawi-Y/Dagmawi-Y/blob/output/github-contribution-grid-snake.svg">
-</p>
+</p> -->
