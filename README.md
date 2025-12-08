@@ -3,15 +3,15 @@
 
 - 🔭 Full-Stack Engineer @ [Vella.ai](https://www.vella.ai/)
 
-- [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) Data Scientist.
-
-- 🌱 learning.. **[Local-First](https://lofi.so) Software Development**
+- 🌱 **[Local-First](https://lofi.so) Software Development**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
 -  Proficient in  **JS/TS**
 
 -  📖 A die-hard books enthusiast 📚.
+
+-  [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) in Data Science.
 
 - 📫 Wanna have a 🗨.. **dagmawi.inbox@gmail.com**
 
