@@ -9,7 +9,7 @@
 
 -  Proficient in  **JS/TS**
 
--  📖 A die-hard books enthusiast 📚.
+-  📖 A books enthusiast.
 
 -  [Certified](https://intranet.alxswe.com/certificates/2h8FxNp63T) in Data Science.
 
