@@ -25,12 +25,12 @@
 
 ``` javascript
 const flowState = new FlowState();
-const [lofiMixPlaying, ...rest] = CurrentState();
+const [jazzGroovePlaying, ...rest] = CurrentState();
 
 while (true) {
-  lofiMixPlaying 
+  jazzGroovePlaying 
     ? flowState.execute() 
-    : (console.log("Don't dance without a rhythm :-)"), break);
+    : (console.log("Can't swing without a groove 🎷"), break);
 }
 
 // - Dagmawi Y.
