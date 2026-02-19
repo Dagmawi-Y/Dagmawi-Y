@@ -3,7 +3,7 @@
 
 - 🔭 Full-Stack Engineer @ [Vella.ai](https://www.vella.ai/)
 
-- 🌱 **[Local-First](https://lofi.so) Software Development**
+- 🌱 **[Local-First](https://lofi.so) Enthusiast**
 
 - 👨‍💻 [my-portfolio](https://www.dagmawi.tech)
 
